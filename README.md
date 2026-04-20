@@ -1,42 +1,31 @@
 # Deep Learning Assignments
 
-Welcome to the **Deep Learning Assignments** repository! 🎓
-
-This repository contains a collection of deep learning course assignments completed by the author. The files are organized and implemented primarily as **Jupyter Notebooks**, focusing on key deep learning topics and hands-on practice.
+Welcome to the **Deep Learning Assignments** repository! This repository contains a collection of deep learning course assignments implemented primarily as Jupyter Notebooks.
 
 ## 📂 Repository Structure
-
-- **ASSIGNMENTS/** – Contains assignment notebooks covering various deep learning topics.
-- **dl-course-era/** – Contains additional notebooks or resources from the course era.
+* **`ASSIGNMENTS/`**: Contains notebooks covering core deep learning topics.
+* **`dl-course-era/`**: Contains additional notebooks and resources from the course.
 
 ## 🧠 Topics Covered
-
-This repository includes practical implementations and solutions related to deep learning concepts such as:
-
-- Neural Networks
-- Convolutional Neural Networks (CNNs)
-- Activation Functions
-- Optimization Techniques
-- Forward and Backpropagation
-- Model Training and Evaluation
+* Neural Networks & Convolutional Neural Networks (CNNs)
+* Activation Functions & Optimization Techniques
+* Forward and Backpropagation
+* Model Training and Evaluation
 
 ## 💻 Technologies Used
-
-- Python
-- Jupyter Notebook
-- NumPy
-- TensorFlow / PyTorch (depending on individual notebooks)
+* Python
+* Jupyter Notebook
+* NumPy
+* TensorFlow / PyTorch
 
 ## 🚀 How to Use
-
-1. Clone this repository:
+1. Clone the repository:
    ```bash
-   git clone https://github.com/yashikasharma2004/deep-learning-assignments.git
+   git clone [https://github.com/yashikasharma2004/deep-learning-assignments.git](https://github.com/yashikasharma2004/deep-learning-assignments.git)
 
+2. Navigate to the directory:
+   cd deep-learning-assignments
 
-2.  Navigate to the repository folder:
-       cd deep-learning-assignments
-
-
-3. Open the Jupyter notebooks to explore each assignment:
-     jupyter notebook
+   
+3.Launch Jupyter Notebook:
+   jupyter notebook
